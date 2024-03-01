@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "name": "Lewis Hamilton",
+        "description": "Seven-time Formula 1 World Champion.",
+        "age": 37,
+        "active": true,
+        "birthdate": "1985-01-07",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/lewishamilton.jpg",
+        "status": "active",
+        "hobbies": ["Music", "Fashion", "Traveling"],
+        "teamId": 1
+    
+    },
+    {
+        "id": 2,
+        "name": "Max Verstappen",
+        "description": "One of the youngest Formula 1 drivers to win a Grand Prix.",
+        "age": 24,
+        "active": true,
+        "birthdate": "1997-09-30",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/maxverstappen.jpg",
+        "status": "active",
+        "hobbies": ["Karting", "Cycling", "Gaming"],
+        "teamId": 2
+    },
+    {
+        "id": 3,
+        "name": "Charles Leclerc",
+        "description": "Monégasque racing driver currently driving for Scuderia Ferrari.",
+        "age": 25,
+        "active": true,
+        "birthdate": "1997-10-16",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/charlesleclerc.jpg",
+        "status": "active",
+        "hobbies": ["Racing", "Fitness", "Gaming"],
+        "teamId": 3
+    },
+    {
+        "id": 4,
+        "name": "Fernando Alonso",
+        "description": "Two-time Formula 1 World Champion.",
+        "age": 40,
+        "active": true,
+        "birthdate": "1981-07-29",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/FernandoAlonso.jpg",
+        "status": "active",
+        "hobbies": ["Cycling", "Triathlons", "Poker"],
+        "teamId": 4
+        
+    },
+    {
+        "id": 5,
+        "name": "Mika Häkkinen",
+        "description": "Two-time Formula 1 World Champion from Finland.",
+        "age": 53,
+        "active": false,
+        "birthdate": "1968-09-28",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/MikaHakkinen.jpg",
+        "status": "inactive",
+        "hobbies": ["Aviation", "Motorsports", "Fitness"],
+        "teamId": 5
+    },
+    {
+        "id": 6,
+        "name": "Niki Lauda",
+        "description": "Three-time Formula 1 World Champion from Austria.",
+        "age": 73,
+        "active": false,
+        "birthdate": "1949-02-22",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/NikiLauda.jpg",
+        "status": "inactive",
+        "hobbies": ["Aviation", "Business", "Mountain Climbing"],
+        "teamId": 3
+    },
+    {
+        "id": 7,
+        "name": "Michael Schumacher",
+        "description": "Seven-time Formula 1 World Champion from Germany.",
+        "age": 52,
+        "active": false,
+        "birthdate": "1969-01-03",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/MichaelShumacher.jpg",
+        "status": "inactive",
+        "hobbies": ["Skiing", "Football", "Cycling"],
+        "teamId": 3
+    },
+    {
+        "id": 8,
+        "name": "Ayrton Senna",
+        "description": "Three-time Formula 1 World Champion from Brazil.",
+        "age": 61,
+        "active": false,
+        "birthdate": "1960-03-21",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/AyrtonSenna.jpg",
+        "status": "inactive",
+        "hobbies": ["Charity Work", "Motorsports", "Traveling"],
+        "teamId": 5
+    },
+    {
+        "id": 9,
+        "name": "Juan Fangio",
+        "description": "Five-time Formula 1 World Champion from Argentina.",
+        "age": 84,
+        "active": false,
+        "birthdate": "1911-06-24",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/JuanFangio.jpg",
+        "status": "inactive",
+        "hobbies": ["Classic Cars", "Tango", "Traveling"],
+        "teamId": 3
+    },
+    {
+        "id": 10,
+        "name": "Kimi Räikkönen",
+        "description": "One-time Formula 1 World Champion from Finland.",
+        "age": 42,
+        "active": true,
+        "birthdate": "1979-10-17",
+        "profileImageUrl": "https://raw.githubusercontent.com/JoranHomble/Terminal-App/main/App/images/KimiRaikonen.jpeg",
+        "status": "active",
+        "hobbies": ["Motorsports", "Snowboarding", "Ice Hockey"],
+        "teamId": 3
+    }
+]
+
+

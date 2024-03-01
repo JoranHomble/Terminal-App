@@ -1,0 +1,28 @@
+[
+    {
+        "id": 1,
+        "name": "Mercedes-AMG Petronas Formula One Team",
+        "country": "United Kingdom"
+    },
+    {
+        "id": 2,
+        "name": "Red Bull Racing",
+        "country": "Austria"
+    },
+    {
+        "id": 3,
+        "name": "Scuderia Ferrari",
+        "country": "Italy"
+    },
+    {
+        "id": 4,
+        "name": "Alpine F1 Team",
+        "country": "France"
+    },
+    {
+        "id": 5,
+        "name": "McLaren F1 Team",
+        "country": "United Kingdom"
+    }
+]
+
